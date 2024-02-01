@@ -26,7 +26,7 @@ Despite the simplicity of the approach, the project achieved a top 10% ranking i
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/bank-churn-binary-classification.git
+git clone https://github.com/atefbouzid/Bank-churn-binary-classification.git
 
 2. Open and run the Jupyter Notebooks to explore the project and run the code:
 
