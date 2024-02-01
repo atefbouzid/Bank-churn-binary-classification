@@ -21,6 +21,7 @@ The project focuses more on domain analysis and gaining insights from the datase
 ## Achievements
 
 Despite the simplicity of the approach, the project achieved a top 10% ranking in the Kaggle competition. This highlights the importance of domain analysis and understanding the data context in achieving competitive results.
+
 ![image](https://github.com/atefbouzid/Bank-churn-binary-classification/assets/122903316/a5f7af3a-5561-40f1-8638-9e3b52f10f08)
 
 
